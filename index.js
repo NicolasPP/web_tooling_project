@@ -1,2 +1,2 @@
-console.log("hello world")
-console.log("I am devlopment branch")
+console.log("hello world");
+console.log("I am development branch");
